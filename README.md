@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Firat Deniz Simsek</h1>
 <h3 align="center">A passionate software developer from Ireland</h3>
 
-- 🌱 I’m currently learning **Java Android Development**
+- 🌱 I’m currently learning **Java Technologies**
 
 - 📫 How to reach me **firat-deniz143@hotmail.com**
 
