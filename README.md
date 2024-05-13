@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer</h3>
 
 # 💫 About Me:
-🔭 I’m currently working at Etiya<br><br>📫 How to reach me firat-deniz143@hotmail.com
+🔭 I’m currently working on ODETUS<br><br>📫 How to reach me firat-deniz143@hotmail.com
 
 
 ## 🌐 Socials:
